@@ -114,4 +114,4 @@ export const links = [
     imgSrc:
       "https://a0.muscache.com/pictures/ee9e2a40-ffac-4db9-9080-b351efc3cfc4.jpg",
   },
-];
+ ]
